@@ -8,9 +8,9 @@ MinimServer is a new UPnP AV music server with a number of innovative features t
 
 Pull the image from the docker registry e.g.
 
-```docker pull tromatik/docker-minimserver```
+```docker pull nielsdb97/docker-minimserver```
 
-or build it:  
+or build it:
 
 ```git clone https://github.com/Trauma/docker-minimserver.git```
 
