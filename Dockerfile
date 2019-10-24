@@ -1,6 +1,6 @@
 FROM openjdk:9
 
-ARG url=http://jminim.com/brac/MinimServer-0.8.5.1-linux-intel.tar.gz
+ARG url=http://jminim.com/brac/MinimServer-0.8.5.2-linux-intel.tar.gz
 
 RUN wget -O /opt/MinimServer.tar.gz ${url} && \
 		cd /opt && \
